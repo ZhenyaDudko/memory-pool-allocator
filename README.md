@@ -1,4 +1,4 @@
-# Pool allocator
+# Memory pool allocator
 
 ## Least frequent recently used
 
